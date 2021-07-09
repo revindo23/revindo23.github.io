@@ -1,0 +1,25 @@
+.jumbotron {
+  padding: 6rem 0 0 0;
+  background-color: #e2edff;
+  text-align: center;
+}
+
+p {
+  font-size: large;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.col {
+  margin: 3px 0 3px 0;
+}
+
+#footer {
+  font-weight: bold;
+}
+
+section {
+  padding-top: 5rem;
+}
